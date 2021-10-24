@@ -1,8 +1,12 @@
-## Welcome to Yunxiang Yang Pages
+### Biography 
 
-You can use the [editor on GitHub](https://github.com/winstonyang117/winstonyang117.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I believe each experience will build us more comprehensive. We can not connect the dots looking forward, we can only connect them looking backwards. These dots will somehow connect in our future.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have a interdisciplinary background and yy research interests lies broadly in computer vision, biomedical signal and image processing, data mining, machine learning, robotics and 
+
+I earned my MS in Electrical Engineering from Stevens Institute of Technology (2021), working with Professor Negar Tavassolian on contactless vital signs measurement and analysis via FMCW radar. Besides, I obtained my B.E. in Electrical Engineering fron Changchun University of Science and Technology (2018).
+
+Currently, I’m working as a data scientist in Advanced Analytics Group at UPS. And at the same time, I'm pursuing a Ph.D. degree for my future career.
 
 ### CV
 
