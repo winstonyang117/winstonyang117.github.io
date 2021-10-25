@@ -12,5 +12,4 @@ Currently, I’m working as a data scientist in Advanced Analytics Group at UPS.
 
 For my latest CV, please check it out [here](https://github.com/winstonyang117/cv.git)
 
-![Image](src)
 
