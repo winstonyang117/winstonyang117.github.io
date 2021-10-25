@@ -2,10 +2,3 @@ theme: jekyll-theme-cayman
 title: Welcome to Yunxiang Yang's homepage!
 description: Feel free to contact me if you have any advice!
 page-img: "/assets/img/1.png"
-
-share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
-  vk: false
-  
