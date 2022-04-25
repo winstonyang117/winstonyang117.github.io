@@ -2,11 +2,9 @@
 
 I believe each experience will build us more comprehensive. We can not connect the dots looking forward, we can only connect them looking backwards. These dots will be somehow connected in our future.
 
-I have an interdisciplinary background and my research interest lies broadly in computer vision, big data and data analytics, biomedical signal&image processing, machine learning, robotics and embedded systems.
+Currently, I am a PhD student at the University of Georgia and luckily advised by Professor [Wenzhan Song](https://sensorweb.engr.uga.edu/index.php/song/). Prior to joining UGA, I obtained my M.S. and B.E. degree in Electrical Engineering from Stevens Institute of Technology (2021) and Changchun University of Science and Technology (2018), respectively. Besides, I had been working as a Data Scientist at UPS for 9 months at UPS.
 
-I earned my M.S. degree in Electrical Engineering from Stevens Institute of Technology (2021), advised by [Prof. Lei Wu](https://sites.google.com/site/leiwupes/News?authuser=0). I also worked with [Prof. Negar Tavassolian](https://www.tavassolian-lab.com/people) on my Master Thesis _Contactless Vital Signs Measurement and Analysis via FMCW radar_. Prior to attending Stevens, I obtained my B.E. in Electrical Engineering from Changchun University of Science and Technology (2018).
-
-Currently, I’m working as a data scientist in Advanced Analytics Group (AAG) at UPS.
+I have an interdisciplinary research background and my research interest lies broadly in vital signs monitoring via contactless sensors, IoT applications, and cyber-physical systems & security. 
 
 ### CV
 
